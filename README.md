@@ -1,5 +1,5 @@
-# AndroidLibrary
-Android Library
+# Android Libraries
+Android Libraries
 
 ## UI
 [SlidingUpPanelLayout](https://github.com/woxingxiao/SlidingUpPanelLayout)
@@ -9,3 +9,6 @@ Android Library
 [FaceDetector](https://github.com/Fotoapparat/FaceDetector)
 
 [Orin](https://github.com/aliumujib/Orin)
+
+## Reduce Apk Size
+[FB Redux](http://fbredex.com/)
